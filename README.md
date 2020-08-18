@@ -1,3 +1,5 @@
+Exemplo de conversor de moedas criado em react.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
